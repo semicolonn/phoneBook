@@ -1,0 +1,12 @@
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\bin\Debug\phoneBook.exe
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\bin\Debug\phoneBook.pdb
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\obj\x86\Debug\phoneBook.Form1.resources
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\obj\x86\Debug\phoneBook.Properties.Resources.resources
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\obj\x86\Debug\phoneBook.csproj.GenerateResource.Cache
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\obj\x86\Debug\phoneBook.exe
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\obj\x86\Debug\phoneBook.pdb
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\bin\Debug\phoneBook_db.mdf
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\bin\Debug\phoneBook_db_log.ldf
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\bin\Debug\phoneBook.exe.config
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\obj\x86\Debug\phoneBook.csprojResolveAssemblyReference.cache
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\phoneBook\phoneBook\obj\x86\Debug\phoneBook.contactsListView.resources
